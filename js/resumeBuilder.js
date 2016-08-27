@@ -5,7 +5,7 @@ This is empty on purpose! Your code to build the resume will go here.
  // $("#main").append("Yang");
 
 var firstName = "james";
-var age = 32;
+
 console.log(firstName);
 
 var email = "cameron@udacity.com";
